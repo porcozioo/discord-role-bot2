@@ -1,12 +1,13 @@
 {
   "name": "discord-role-bot2",
   "version": "1.0.0",
+  "description": "Discord role selection bot",
   "main": "bot.js",
   "scripts": {
     "start": "node bot.js"
   },
   "dependencies": {
-    "discord.js": "^14.0.0",
-    "dotenv": "^16.0.0"
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.4.5"
   }
 }
